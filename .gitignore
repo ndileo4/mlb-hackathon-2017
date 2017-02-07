@@ -1,3 +1,10 @@
+# Add mlb-hackathon specific files
+2014.csv
+2015.csv
+2016.csv
+HackathonHosting.pdf
+HackathonProjects.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
